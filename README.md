@@ -15,6 +15,7 @@ This topology represents a small office or campus network where redundancy is re
 ## Topology Design
 The network uses three switches connected in a triangular layout, creating multiple physical paths between devices.
 
+<img width="424" height="388" alt="Screenshot 2025-12-19 130742" src="https://github.com/user-attachments/assets/22841189-af5c-4b18-bc2b-fed7aed0ee0b" />
 
 
 
@@ -53,6 +54,8 @@ The following checks were used to validate STP operation:
 
 Example verification commands:
 show spanning-tree
+
+
 <img width="540" height="252" alt="Screenshot 2025-12-19 131104" src="https://github.com/user-attachments/assets/f73c221b-f1e8-4822-9fa7-f2213d063b42" />
 
 
